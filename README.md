@@ -7,7 +7,7 @@ It can be easily extended to other metric optimization.
 
 For more details and evaluation results, please check out our  [paper](http://ieeexplore.ieee.org/document/7797132/).
 
-![teaser](https://github.com/JasonSWFu/MetricGAN/tree/master/images/MetricGAN_learning.png)
+![teaser](https://github.com/JasonSWFu/MetricGAN/blob/master/images/MetricGAN_learning.png)
 
 ### Dependencies:
 Python 2.7
