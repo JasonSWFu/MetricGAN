@@ -10,11 +10,9 @@ For more details and evaluation results, please check out our  [paper](http://ie
 ![teaser](https://github.com/JasonSWFu/MetricGAN/blob/master/images/MetricGAN_learning.png)
 
 ### Dependencies:
-*Python 2.7
-*keras=2.0.9
-*librosa=0.5.1
-
-
+* Python 2.7
+* keras=2.0.9
+* librosa=0.5.1
 
 ### Citation
 
