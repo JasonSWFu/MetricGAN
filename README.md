@@ -11,7 +11,9 @@ For more details and evaluation results, please check out our  [paper](http://ie
 
 ### Dependencies:
 Python 2.7
+
 keras=2.0.9
+
 librosa=0.5.1
 
 
@@ -23,7 +25,6 @@ If you find the code and datasets useful in your research, please cite:
     @inproceedings{fu2019metricGAN,
       title={MetricGAN: Generative Adversarial Networks based Black-box Metric Scores Optimization for Speech Enhancement},
       author={Fu, Szu-Wei and Liao, Chien-Feng and Tsao, Yu and Lin, Shou-De},
-  
       booktitle={International Conference on Machine Learning (ICML)},
       year={2019}
     }
