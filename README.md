@@ -2,7 +2,7 @@
 
 
 ### Introduction
-MetricGAN is a Generative Adversarial Networks (GAN) based black-box metric scores optimization.
+MetricGAN is a Generative Adversarial Networks (GAN) based black-box metric scores optimization method.
 By associating the discriminator (D) with the metrics of interest, MetricGAN can be treated as an iterative
 process between surrogate loss learning and generator learning as shown in the following figure.
 
