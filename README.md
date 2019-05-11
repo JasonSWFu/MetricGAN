@@ -25,7 +25,7 @@ The following codes are created by others:
 
 ### Citation
 
-If you find the code and datasets useful in your research, please cite:
+If you find the code useful in your research, please cite:
     
     @inproceedings{fu2019metricGAN,
       title     = {MetricGAN: Generative Adversarial Networks based Black-box Metric Scores Optimization for Speech Enhancement},
