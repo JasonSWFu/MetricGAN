@@ -22,6 +22,7 @@ For more details and evaluation results, please check out our  [paper](http://ie
 The following codes are created by others:
 * [SpectralNormalizationKeras](https://github.com/IShengFang/SpectralNormalizationKeras): SpectralNormalization in Keras
 *  [pystoi](https://github.com/mpariente/pystoi): stoi calculatuin in python (modified by me)
+* The PESQ file can only be implemented in Linux environment.
 
 ### Citation
 
