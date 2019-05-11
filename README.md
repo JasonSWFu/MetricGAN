@@ -18,7 +18,8 @@ For more details and evaluation results, please check out our  [paper](http://ie
 * keras=2.0.9
 * librosa=0.5.1
 
-Note! The following codes are created by others:
+### Note! 
+The following codes are created by others:
 * [SpectralNormalizationKeras](https://github.com/IShengFang/SpectralNormalizationKeras): SpectralNormalization in Keras
 *  [pystoi](https://github.com/mpariente/pystoi): stoi calculatuin in python (modified by me)
 
