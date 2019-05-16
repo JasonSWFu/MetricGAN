@@ -9,7 +9,7 @@ process between surrogate loss learning and generator learning as shown in the f
 This code (developed with Keras) applies MetricGAN to optimize PESQ or STOI score for Speech Enhancement.
 It can be easily extended to optimize other metrics.
 
-For more details and evaluation results, please check out our  [paper](http://ieeexplore.ieee.org/document/7797132/).
+For more details and evaluation results, please check out our  [paper](https://arxiv.org/abs/1905.04874).
 
 ![teaser](https://github.com/JasonSWFu/MetricGAN/blob/master/images/MetricGAN_learning.png)
 
