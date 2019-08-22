@@ -19,9 +19,9 @@ For more details and evaluation results, please check out our  [paper](https://a
 * librosa=0.5.1
 
 ### Note! 
-As mentioned in the paper, the input features and activation functions used in table 2 are different from those provided here.
+1. As mentioned in the paper, the input features and activation functions used in table 2 are different from those provided here.
 
-The following codes are created by others:
+2. The following codes are created by others:
 * [SpectralNormalizationKeras](https://github.com/IShengFang/SpectralNormalizationKeras): SpectralNormalization in Keras
 *  [pystoi](https://github.com/mpariente/pystoi): stoi calculatuin in python (modified by me)
 * The PESQ file can only be implemented in Linux environment.
