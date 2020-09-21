@@ -7,11 +7,14 @@ By associating the discriminator (D) with the metrics of interest, MetricGAN can
 process between surrogate loss learning and generator learning as shown in the following figure.
 
 This code (developed with Keras) applies MetricGAN to optimize PESQ or STOI score for Speech Enhancement.
-It can be easily extended to optimize other metrics.
+It can also be easily extended to optimize other metrics.
 
 For more details and evaluation results, please check out our  [paper](https://arxiv.org/abs/1905.04874).
 
 ![teaser](https://github.com/JasonSWFu/MetricGAN/blob/master/images/MetricGAN_learning.png)
+
+The pesq improving process for the voicebank test set is as follows:
+![teaser](https://github.com/JasonSWFu/MetricGAN/blob/master/images/Test_PESQ2.png)
 
 ### Dependencies:
 * Python 2.7
