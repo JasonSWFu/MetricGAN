@@ -2,8 +2,8 @@
 
 ### Update !!!
 _____________________________
-An updated version, MetricGAN+, can be found here: [paper](https://arxiv.org/abs/2104.03538).
-![code](https://github.com/speechbrain/speechbrain/tree/develop/recipes/Voicebank/enhance/MetricGAN)
+An updated version, MetricGAN+, can be found here: [paper](https://arxiv.org/abs/2104.03538) and
+[code](https://github.com/speechbrain/speechbrain/tree/develop/recipes/Voicebank/enhance/MetricGAN).
 
 ### Introduction
 MetricGAN is a Generative Adversarial Networks (GAN) based black-box metric scores optimization method.
