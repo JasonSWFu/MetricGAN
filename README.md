@@ -1,5 +1,7 @@
 # MetricGAN: Generative Adversarial Networks based Black-box Metric Scores Optimization for Speech Enhancement (ICML 2019)
 
+### Update !!!
+An updated version MetricGAN+ can be found here: ![teaser](https://github.com/speechbrain/speechbrain/tree/develop/recipes/Voicebank/enhance/MetricGAN)
 
 ### Introduction
 MetricGAN is a Generative Adversarial Networks (GAN) based black-box metric scores optimization method.
